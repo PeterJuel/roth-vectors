@@ -1,0 +1,26 @@
+{
+  "name": "roth-vectors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "p-limit": "^2.3.0",
+    "pdf-parse": "^1.1.1",
+    "pdf2json": "^3.1.5",
+    "pdf2pic": "^3.1.4",
+    "tesseract.js": "^6.0.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@types/pdf-parse": "^1.1.5"
+  }
+}
